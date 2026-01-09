@@ -6,7 +6,7 @@ There are several md files in this repository, each covering a different aspect 
 
 ## First Step
 
-Fork this repository to your own GitHub account (uncheck the "Copy the master branch only"), then follow the links below to access each section.
+Fork this repository to your own GitHub account, then follow the links below to access each section.
 ## Contents
 :one: [**Getting Started**](getting_started/README.md): How to install Git and configure your ssh keys to work with GitHub.
 
